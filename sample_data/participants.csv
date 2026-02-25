@@ -1,0 +1,3 @@
+name,email,certificate_path,team
+Aditi,aditi@example.com,sample_data/certificates/aditi.pdf,Team Alpha
+Rahul,rahul@example.com,sample_data/certificates/rahul.pdf,Team Beta
